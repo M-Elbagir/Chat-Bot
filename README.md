@@ -37,3 +37,9 @@ Create a `.env` file in the project root with your Cohere API key:
 COHERE_API_KEY=your_api_key_here
 ```
 
+---
+
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/LJzI1ZG-JwU/maxresdefault.jpg)](https://www.youtube.com/watch?v=LJzI1ZG-JwU)
+
