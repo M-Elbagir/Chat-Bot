@@ -41,5 +41,5 @@ COHERE_API_KEY=your_api_key_here
 
 ## Demo Video
 
-<video src="Demo.mp4" controls width="800"></video>
+[▶ Watch the demo](Demo.mp4)
 
