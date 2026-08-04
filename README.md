@@ -41,5 +41,8 @@ COHERE_API_KEY=your_api_key_here
 
 ## Demo Video
 
-[▶ Watch the demo](Demo.mp4)
+
+https://github.com/user-attachments/assets/203fafd8-11a2-41f9-9e56-c113ceb41da4
+
+
 
